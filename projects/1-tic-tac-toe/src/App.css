@@ -9,6 +9,10 @@
   height: 6em;
   padding: 1.5em;
   will-change: filter;
+<<<<<<< HEAD
+=======
+  transition: filter 300ms;
+>>>>>>> 44ec20b5d990eb971754206b3f82e84e12153470
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
